@@ -1,6 +1,6 @@
-package my.groupid.support.web;
+package com.hk.novare.support.web;
 
-import static my.groupid.support.web.Message.MESSAGE_ATTRIBUTE;
+import static com.hk.novare.support.web.Message.MESSAGE_ATTRIBUTE;
 
 import org.springframework.ui.Model;
 import org.springframework.web.servlet.mvc.support.RedirectAttributes;

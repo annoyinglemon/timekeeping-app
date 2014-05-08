@@ -1,4 +1,4 @@
-package com.novare.hk;
+package com.hk.novare;
 
 public interface Application {
 	

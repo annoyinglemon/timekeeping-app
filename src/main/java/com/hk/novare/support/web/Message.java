@@ -1,4 +1,4 @@
-package my.groupid.support.web;
+package com.hk.novare.support.web;
 
 /**
  * A message to be displayed in web context. Depending on the type, different style will be applied.
